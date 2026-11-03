@@ -8,6 +8,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-a855f7?style=for-the-badge)
+
 </div>
 
 ## ⭐ Highlights
@@ -44,6 +46,10 @@ python day8-obj-cathing-game.py
 ```
 
 The webcam projects need a camera, and the `hand_landmarker.task` model file in the same folder (it's already included).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
